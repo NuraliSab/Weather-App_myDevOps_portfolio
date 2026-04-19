@@ -1,8 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background: url("https://images3.alphacoders.com/132/thumb-1920-1329911.jpeg");
+    background: url("https://cojo.ru/wp-content/uploads/2022/12/fon-dlia-intro-1-2.webp")
 }
-
 .about_me{
     display:flex;
     justify-content: center;
@@ -12,6 +11,10 @@ body{
 
 .about_me p{
     font-size: 20px;
+}
+
+.skills li{
+    color: #fff;
 }
 
 
@@ -132,6 +135,10 @@ h3, p {
     justify-content: center;
     margin-top: 0px;
     margin-bottom: 20px;
+}
+
+.footer p{
+    font-size: 20px;
 }
 
 
